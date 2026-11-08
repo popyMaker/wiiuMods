@@ -1,0 +1,29 @@
+{
+  "name": "zelda breath of the wild",
+  "icon": "https://www.google.com/imgres?q=botw&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fc%2Fc6%2FThe_Legend_of_Zelda_Breath_of_the_Wild.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Doriginal&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Legend_of_Zelda%3A_Breath_of_the_Wild&docid=gp8cy7NX1wT7BM&tbnid=TGn069y9BoVjuM&vet=12ahUKEwia1q210fiXAxXFRZ8JHVGfHlQQnPAOegQISRAA..i&w=273&h=365&hcb=2&ved=2ahUKEwia1q210fiXAxXFRZ8JHVGfHlQQnPAOegQISRAA",
+  "titleIds": [
+    "00050000101C9500"
+  ],
+  "mods": [
+    {
+      "id": "linkle",
+      "name": "linkle mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "me",
+      "description": "replaces link with linkle female protagonist",
+      "download": "https://github.com/popyMaker/linkleMods/archive/refs/heads/master.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/634a3ff019394.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/634a3fef64e62.jpg",
+        "https://images.gamebanana.com/img/ss/mods/634a3ff019394.jpg",
+        "https://images.gamebanana.com/img/ss/mods/634bd7fec6df5.jpg",
+        "https://images.gamebanana.com/img/ss/mods/634a403caa293.jpg",
+        "https://images.gamebanana.com/img/ss/mods/634a3fe80147c.jpg"
+      ],
+      "tags": [
+        "asset"
+      ]
+    }
+  ]
+}

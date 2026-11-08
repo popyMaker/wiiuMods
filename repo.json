@@ -1,0 +1,18 @@
+{
+  "formatVersion": 1,
+  "name": "wiiuMods",
+  "author": "popyMaker",
+  "description": "wii u mods",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/mk8/game.json"
+    },
+    {
+      "path": "games/smbu/game.json"
+    },
+    {
+      "path": "games/botw/game.json"
+    }
+  ]
+}
