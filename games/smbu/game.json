@@ -2,7 +2,50 @@
   "name": "new super mario bros u",
   "icon": "https://www.google.com/imgres?q=new%20super%20mario%20bros%20wii%20u&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91ZNQgvXNnL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.co.uk%2FNew-Super-Mario-Bros-Wii%2Fdp%2FB00844Q4EA&docid=nDQmzBldEB2yuM&tbnid=1X6d78vE0PJSpM&vet=12ahUKEwifseuL0fiXAxUvd0EAHcM3J4gQnPAOegQIYRAA..i&w=1790&h=2560&hcb=2&ved=2ahUKEwifseuL0fiXAxUvd0EAHcM3J4gQnPAOegQIYRAA",
   "titleIds": [
-    "0005000010101E00"
+    "0005000010101E00",
+    "0005000010101D00",
+    "0005000010101C00"
   ],
-  "mods": []
+  "mods": [
+    {
+      "id": "msmbu2",
+      "name": "mini super mario bros u 2",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "me",
+      "description": "adds 8 wii levels as extras to new super mario bros u",
+      "download": "https://github.com/popyMaker/MSMBU2-mod/archive/refs/heads/master.zip",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDnRDhBoQc57jErEaXuBhf_TvFagGe9VN-eVgF9PCbzg&s",
+      "tags": [
+        "booster"
+      ]
+    },
+    {
+      "id": "msmbwu",
+      "name": "mini super mario bros wii u mod",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "me",
+      "description": "to add a few wii levels to the original",
+      "download": "https://dl.dropboxusercontent.com/s/c7uddtkpr5n1q5l/MSMBWIIU.zip",
+      "thumbnail": "https://static.wikitide.net/zenithwiki/thumb/a/ae/MiniSuperMarioBros2U.png/200px-MiniSuperMarioBros2U.png",
+      "screenshots": [
+        "https://static.wikitide.net/zenithwiki/thumb/a/ae/MiniSuperMarioBros2U.png/200px-MiniSuperMarioBros2U.png"
+      ]
+    },
+    {
+      "id": "csmbu2",
+      "name": "cloudy super mario bros u 2",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "me",
+      "description": "overhauls gameplay to add completely new levels and soundtrak for unique experience",
+      "download": "https://drive.usercontent.google.com/download?id=16THBNN8ZFek4TgWo1YpgP_xT_47rvO4u&export=download&confirm=t&uuid=18e436bd-dee5-4f8c-b043-208a1fb7bd2b",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sulpyp6F20He124hmR3dJlWGJexSYTcoKdBbCx9FsA&s=10",
+      "tags": [
+        "overhaul"
+      ],
+      "changelog": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1WXFI2-KiIuMlgckBoJgLxKZ_gBS03l97SZ0SzYEQsA&s=10\nhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzsB_3holFEOAXzSn1hHuDxfKxkvcPplUqtGH2w6K8Q&s=10"
+    }
+  ]
 }
